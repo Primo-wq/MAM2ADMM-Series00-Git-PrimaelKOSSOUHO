@@ -1,2 +1,4 @@
 # MAM2ADMM-Series00-Git-PrimaelKOSSOUHO
-This repository is used to learn
+This is a repository for learning the basics of Git and GitHub by doing
+
+
